@@ -1,0 +1,14 @@
+@media (max-width: 576px){
+    body {
+        background-color: lightblue;
+    }
+}
+.row div {
+    border: 1px solid black;
+    background-color: lightseagreen;
+}
+/*@media (max-width: 576px): Small device known as the s'm breakpoint
+@media (max-width: 768px): Medium devices known as the 'md' breakpoint
+@media (max-width: 992px): large devices known as the 'lg' breakpoint
+@media (max-width: 1200px): Extra large devices known as the 'xl' breakpoit
+*/
